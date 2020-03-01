@@ -1,3 +1,5 @@
+import R from 'ramda'
+
 namespace prisms_demo_1 {
 
     class Street {
